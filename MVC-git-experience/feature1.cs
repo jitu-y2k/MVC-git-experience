@@ -9,6 +9,7 @@ namespace MVC_git_experience
     {
         public int Add(int x1, int x2)
         {
+            //Added changes for feature 3
             return x1 + x2;
         }
     }
